@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "V1.6",
-  "apkUrl": "https://github.com/caif1986/jiajutiaose/releases/download/jjts/jiajutiaose-V1.6.apk",
-  "notes": "当前版本  更新 新的色差值更新干湿差功能",
+  "versionCode": 9,
+  "versionName": "V1.9",
+  "apkUrl": "https://github.com/caif1986/jiajutiaose/releases/download/jjts/jiajutiaose-V1.9.apk",
+  "notes": "优化多个细节问题，修复白平衡光影响，调整精准色度  优化用户体验",
   "forceUpdate": true
 }
