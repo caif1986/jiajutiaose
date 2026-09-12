@@ -3,5 +3,5 @@
   "versionName": "V1.9",
   "apkUrl": "https://github.com/caif1986/jiajutiaose/releases/download/jjts/jiajutiaose-V1.9.apk",
   "notes": "优化多个细节问题，修复白平衡光影响，调整精准色度  优化用户体验",
-  "forceUpdate": true
+  "forceUpdate": false
 }
